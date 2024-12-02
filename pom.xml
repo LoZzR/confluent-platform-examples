@@ -100,7 +100,7 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
                   <param>${schemaRegistryUrl}</param>
               </schemaRegistryUrls>
               <subjects>
-                  <transactions-value>src/main/resources/avro/io/confluent/examples/clients/basicavro/Payment.avsc</transactions-value>
+                  <transactions-value>src/main/resources/avro/io/confluent/examples/clients/basicavro/Payment2b.avsc</transactions-value>
               </subjects>
           </configuration>
           <goals>
